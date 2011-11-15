@@ -8,7 +8,7 @@ Version: 1.0
 Author URI: http://www.lightapps.co.il
 */ 
 
-define ('GOOGLE_ADD_TEMPLATE',"<g:plusone size=\"tall\" annotation=\"inline\"></g:plusone>");
+define ('GOOGLE_ADD_TEMPLATE',"<br /><div style=\"text-align:left\"><g:plusone size=\"tall\" annotation=\"inline\"></g:plusone><br />");
 define ('GOOGLE_ADD_JS',"<script type=\"text/javascript\">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
